@@ -1,0 +1,9 @@
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\bin\Debug\TrialTask.exe.config
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\bin\Debug\TrialTask.exe
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\bin\Debug\TrialTask.pdb
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.csprojResolveAssemblyReference.cache
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.MainForm.resources
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.Properties.Resources.resources
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.csproj.GenerateResource.Cache
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.exe
+C:\Users\например_Андрей\Documents\Visual Studio 2015\Projects\GL trial task\TrialTask\TrialTask\obj\Debug\TrialTask.pdb
